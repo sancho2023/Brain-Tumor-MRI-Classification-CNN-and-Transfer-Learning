@@ -132,10 +132,6 @@ Main settings (first code cell):
 - Mongan et al., *Checklist for Artificial Intelligence in Medical Imaging (CLAIM)*, Radiology: Artificial Intelligence, 2020.
 - Dataset: [Brain Tumor MRI Dataset](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset), Masoud Nickparvar (Kaggle). Check the dataset page for the citation and terms of use requested by the author.
 
-## Author
-
-[Your name] · [LinkedIn or website] · [email]
-
 ## Disclaimer
 
-This is a research and teaching project. The models are not validated for clinical use and must not be used for diagnosis or treatment decisions.
+This is a training project. The models are not validated for clinical use and must not be used for diagnosis or treatment decisions.
